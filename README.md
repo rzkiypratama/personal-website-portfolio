@@ -1,2 +1,2 @@
 "# my-portfolio" 
-## ADD NEW PROJECT
+## ADD NEW PROJECTS
